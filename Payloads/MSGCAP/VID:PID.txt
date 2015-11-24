@@ -1,0 +1,53 @@
+##########################################################################################
+
+Apple Inc VID/PID Ext.
+_______________________________
+05AC
+	Apple Inc VID/PID Child Ext.
+	_____________________________________________________________________
+	0263  "Apple Internal Keyboard / Trackpad (MacBook Retina)"
+	820a  "Bluetooth HID Keyboard"
+	0201  "USB Keyboard [Alps or Logitech, M2452]"
+	0236  "Internal Keyboard/Trackpad (ANSI)"
+##########################################################################################
+Tangtop Technology VID/PID EXT
+_______________________________
+0d3d
+	Tangtop Technology VID/PID Child Ext.
+	______________________________________________________________________	
+	0001  "HID Keyboard"
+##########################################################################################
+Qtronix Corp. VID/PID Ext.
+_______________________________
+05c7	
+	Qtronix Corp. VID/PID Child Ext.	
+	______________________________________________________________________
+	2001  "Keyboard"
+	2011  "SCorpius Keyboard"
+##########################################################################################
+SanDisk Corp. VID/PID Ext.
+_______________________________
+0781
+	SanDisk Corp. VID/PID Child Ext.
+	______________________________________________________________________
+	1234  "Cruzer Mini Flash Drive"
+	5153  "Cruzer Flash Drive"
+	557d  "Cruzer Force (64GB)"
+	5581  "Ultra"
+	6100  "Ultra II SD Plus 2GB"
+	7100  "Cruzer Mini"
+	7101  "Pen Flash"
+	7102  "Cruzer Mini"
+	7103  "Cruzer Mini"
+	7104  "Cruzer Micro Mini 256MB Flash Drive"
+	7105  "Cruzer Mini"
+	7106  "Cruzer Mini"
+	7112  "Cruzer Micro 128MB Flash Drive"
+	7113  "Cruzer Micro 256MB Flash Drive"
+	7114  "Cruzer Mini"
+	7115  "Cruzer Mini"
+
+
+
+
+##########################################################################################

@@ -1,0 +1,11 @@
+DELAY 300
+GUI SPACE
+DELAY 200
+STRING Google Chrome
+ENTER
+DELAY 500
+GUI n
+DELAY 300
+STRING http://ducktoolkit-411.rhcloud.com/Home.jsp
+DELAY 100
+ENTER
